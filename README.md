@@ -1,4 +1,4 @@
-!![Banner](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I+am+Indresan+Vadivelan;Full+Stack+%26+AI+Developer;Let’s+build+something+awesome!&center=true&width=500&height=50)
+![Banner](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I+am+Indresan+Vadivelan;Full+Stack+%26+AI+Developer;Let’s+build+something+awesome!&center=true&width=500&height=50)
 
 
 <h1 align="center">Hi 👋, I'm Indresan Vadivelan</h1>
@@ -21,10 +21,12 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/indresan-vadivelan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/i.n.t.h.r.e.s.h/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
 ---
 
 ### 🛠️ Tools & Technologies:
