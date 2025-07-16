@@ -1,9 +1,7 @@
-# 🚀 Indresan Vadivelan
-
 <div align="center">
   
   <!-- Animated Banner -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=💻+Full+Stack+%26+AI+Developer;🚀+Building+Tomorrow's+Solutions;🌟+Let's+Code+Something+Epic!&font=Fira%20Code&center=true&width=600&height=100&duration=4000&pause=1000&color=00D4FF&vCenter=true&multiline=false" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Indresan+Vadivelan;💻+Full+Stack+%26+AI+Developer;🚀+Building+Tomorrow's+Solutions;🌟+Let's+Code+Something+Epic!&font=Fira%20Code&center=true&width=600&height=100&duration=4000&pause=1000&color=00D4FF&vCenter=true&multiline=false" alt="Typing Animation" />
   
   <!-- Wave Animation -->
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" width="100%" />
@@ -14,7 +12,7 @@
 
 <div align="center">
   
-  ### 🎯 *Transforming Ideas into Digital Reality*
+  ### 🎯 *Full Stack & AI Enthusiast | Solving Real-World Problems with Code*
   
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
   
@@ -51,18 +49,20 @@ const indresan = {
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Current Projects
 
 <div align="center">
   
-  <!-- Project Cards -->
-  <a href="https://github.com/indresan/patient-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=indresan&repo=patient-portal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" alt="Patient Portal" />
-  </a>
+  ### 🏥 Patient Portal (MERN Stack)
+  *Building a comprehensive healthcare management system*
   
-  <a href="https://github.com/indresan/fake-news-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=indresan&repo=fake-news-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" alt="Fake News Detection" />
-  </a>
+  ### 🌱 Sustainable Rewards Platform
+  *Gamifying eco-friendly practices for environmental impact*
+  
+  ### 🔍 Past Highlights
+  - **Fake News Detection** using DeBERTa model
+  - **YOLO-based Face Recognition** system
+  - **Smart Environment Web Applications**
   
 </div>
 
@@ -153,7 +153,11 @@ const indresan = {
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/indresan/indresan/output/snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indresan/indresan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indresan/indresan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/indresan/indresan/output/github-contribution-grid-snake.svg">
+  </picture>
   
 </div>
 
@@ -173,7 +177,7 @@ const indresan = {
 
 <div align="center">
   
-  **⭐ Don't forget to star some repositories if you find them interesting! ⭐**
+  **⭐ Thanks for visiting! Feel free to explore my repositories and don't forget to star if you find something interesting! ⭐**
   
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" width="100%" />
   
