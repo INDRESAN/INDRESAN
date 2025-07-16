@@ -3,8 +3,8 @@
   <!-- Animated Banner -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Indresan+Vadivelan;💻+Full+Stack+%26+AI+Developer;🚀+Building+Tomorrow's+Solutions;🌟+Let's+Code+Something+Epic!&font=Fira%20Code&center=true&width=600&height=100&duration=4000&pause=1000&color=00D4FF&vCenter=true&multiline=false" alt="Typing Animation" />
   
-  <!-- Wave Animation -->
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" width="100%" />
+  <!-- Animated Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Wave" width="100%" />
   
 </div>
 
@@ -54,20 +54,53 @@ I'm always open to collaborating on **AI/ML projects** and **Full Stack Web Appl
 
 ---
 
-## 🔥 Current Projects
+## 🔥 Current Projects & Highlights
 
 <div align="center">
   
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=🚀%20Active%20Development&fontSize=20&fontColor=ffffff" alt="Header" />
+  
   ### 🏥 Patient Portal (MERN Stack)
-  *Building a comprehensive healthcare management system*
+  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge&logo=mongodb&logoColor=white" alt="In Development"/>
+  
+  *Building a comprehensive healthcare management system with real-time patient data processing*
+  
+  **Tech Stack:** React • Node.js • Express • MongoDB • Socket.io
+  
+  ---
   
   ### 🌱 Sustainable Rewards Platform
-  *Gamifying eco-friendly practices for environmental impact*
+  <img src="https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge&logo=react&logoColor=white" alt="Planning"/>
   
-  ### 🔍 Past Highlights
-  - **Fake News Detection** using DeBERTa model
-  - **YOLO-based Face Recognition** system
-  - **Smart Environment Web Applications**
+  *Gamifying eco-friendly practices to drive environmental impact through user engagement*
+  
+  **Tech Stack:** React Native • FastAPI • PostgreSQL • Machine Learning
+  
+  ---
+  
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20,30,3&height=80&section=header&text=🎯%20Past%20Achievements&fontSize=20&fontColor=ffffff" alt="Header" />
+  
+  ### 🔍 Project Highlights
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/AI/ML-Fake%20News%20Detection-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Project"/>
+        <br><strong>DeBERTa Model Implementation</strong>
+        <br><em>98.2% accuracy in fake news detection</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Computer%20Vision-Face%20Recognition-green?style=for-the-badge&logo=opencv&logoColor=white" alt="CV Project"/>
+        <br><strong>YOLO-based System</strong>
+        <br><em>Real-time face detection & recognition</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Full%20Stack-Smart%20Environment-blue?style=for-the-badge&logo=react&logoColor=white" alt="Web Project"/>
+        <br><strong>Environmental Web Apps</strong>
+        <br><em>IoT integration & data visualization</em>
+      </td>
+    </tr>
+  </table>
   
 </div>
 
@@ -154,9 +187,11 @@ I'm always open to collaborating on **AI/ML projects** and **Full Stack Web Appl
 
 ---
 
-## 🐍 Watch My Contributions
+## 🐍 GitHub Activity
 
 <div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=📊%20Contribution%20Journey&fontSize=24&fontColor=ffffff" alt="Header Wave" />
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indresan/indresan/output/github-contribution-grid-snake-dark.svg">
@@ -164,13 +199,18 @@ I'm always open to collaborating on **AI/ML projects** and **Full Stack Web Appl
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/indresan/indresan/output/github-contribution-grid-snake.svg">
   </picture>
   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,3&height=100&section=footer" alt="Footer Wave" />
+  
 </div>
 
 ---
 
 <div align="center">
   
-  ### 🚀 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=💭%20Developer%20Wisdom&fontSize=28&fontColor=ffffff" alt="Quote Header" />
+  
+  ### 🚀 *"Code is like humor. When you have to explain it, it's bad."* 
+  **- Cory House**
   
   <img src="https://komarev.com/ghpvc/?username=indresan&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views"/>
   
@@ -182,8 +222,14 @@ I'm always open to collaborating on **AI/ML projects** and **Full Stack Web Appl
 
 <div align="center">
   
-  **⭐ Thanks for visiting! Feel free to explore my repositories and don't forget to star if you find something interesting! ⭐**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,3&height=120&section=header&text=⭐%20Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff" alt="Thanks Header" />
   
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" width="100%" />
+  **🎯 Ready to collaborate on something amazing? Let's build the future together!**
+  
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open to Collaborate"/>
+  
+  **⭐ Don't forget to star repositories that inspire you! ⭐**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer Wave" />
   
 </div>
