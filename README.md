@@ -10,6 +10,7 @@
 - 🌱 Actively learning **LLaMA 3 RAG Chatbots**, **React Native**, and **Deployment Techniques**  
 - 🤝 Looking to collaborate on **AI/ML + Full Stack Web Projects**  
 - 💬 Ask me about **MERN Stack**, **FastAPI**, **MongoDB**, **ChromaDB**, and **Open Source**  
+- 🌐 Portfolio: [indresan-portfolio.onrender.com](https://indresan-portfolio.onrender.com)  
 - 📫 Reach me: **indresanvadivelan@gmail.com**
 
 ---
