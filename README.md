@@ -1,9 +1,11 @@
-![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
+!![Banner](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I+am+Indresan+Vadivelan;Full+Stack+%26+AI+Developer;Let’s+build+something+awesome!&center=true&width=500&height=50)
+
 
 <h1 align="center">Hi 👋, I'm Indresan Vadivelan</h1>
 <h3 align="center">A Full Stack & AI Enthusiast passionate about solving real-world problems with code</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+
 
 - 🔭 Currently working on **a Patient Portal (MERN Stack)** and **Sustainable Rewards Platform**  
 - 💡 Past Projects include **Fake News Detection (DeBERTa)**, **YOLO-based Face Recognition**, and **Smart Environment Web Apps**  
