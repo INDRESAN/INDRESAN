@@ -24,28 +24,33 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Developer GIF"/>
 
-```javascript
-const indresan = {
-    pronouns: "he/him",
-    location: "Coimbatore, Tamil Nadu 🇮🇳",
-    currentFocus: ["AI/ML Development", "Full Stack Web Apps"],
-    languages: ["JavaScript", "Python", "TypeScript", "Dart"],
-    frameworks: ["React", "Node.js", "Express", "Flutter"],
-    databases: ["MongoDB", "MySQL", "ChromaDB"],
-    currentlyBuilding: {
-        primary: "Patient Portal (MERN Stack)",
-        secondary: "Sustainable Rewards Platform"
-    },
-    pastProjects: [
-        "🔍 Fake News Detection (DeBERTa)",
-        "👁️ YOLO-based Face Recognition",
-        "🌱 Smart Environment Web Apps"
-    ],
-    learningNext: ["LLaMA 3 RAG Chatbots", "React Native", "Cloud Deployment"],
-    openToCollaborate: true,
-    askMeAbout: ["MERN Stack", "FastAPI", "MongoDB", "AI/ML", "Open Source"]
-};
-```
+**👋 Hey there!** I'm Indresan Vadivelan, a passionate **Full Stack & AI Developer** from Coimbatore, Tamil Nadu 🇮🇳
+
+### 🚀 What I'm Currently Working On:
+- 🏥 **Patient Portal** - Building a comprehensive healthcare management system using MERN Stack
+- 🌱 **Sustainable Rewards Platform** - Gamifying eco-friendly practices for environmental impact
+
+### 💼 My Tech Stack:
+- **Languages:** JavaScript, Python, TypeScript, Dart
+- **Frontend:** React, HTML5, CSS3, Flutter
+- **Backend:** Node.js, Express, FastAPI
+- **Databases:** MongoDB, MySQL, ChromaDB
+- **AI/ML:** TensorFlow, Hugging Face, DeBERTa
+
+### 🎯 Past Projects I'm Proud Of:
+- 🔍 **Fake News Detection** using DeBERTa model
+- 👁️ **YOLO-based Face Recognition** system  
+- 🌱 **Smart Environment Web Applications**
+
+### 🌱 Currently Learning:
+- LLaMA 3 RAG Chatbots
+- React Native Development
+- Advanced Cloud Deployment Techniques
+
+### 🤝 Let's Collaborate!
+I'm always open to collaborating on **AI/ML projects** and **Full Stack Web Applications**. Feel free to reach out if you want to build something amazing together!
+
+**💬 Ask me about:** MERN Stack, FastAPI, MongoDB, AI/ML, or Open Source contributions
 
 ---
 
