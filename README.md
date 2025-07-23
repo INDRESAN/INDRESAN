@@ -1,7 +1,10 @@
 <div align="center">
   
   <!-- Animated Banner -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Indresan+Vadivelan;💻+Full+Stack+%26+AI+Developer;🚀+Building+Tomorrow's+Solutions;🌟+Let's+Code+Something+Epic!&font=Fira%20Code&center=true&width=600&height=100&duration=4000&pause=1000&color=00D4FF&vCenter=true&multiline=false" alt="Typing Animation" />
+</p>
+
   
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Wave" width="100%" />
