@@ -1,9 +1,20 @@
 <div align="center">
   
   <!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Indresan+Vadivelan;💻+Full+Stack+%26+AI+Developer;🚀+Building+Tomorrow's+Solutions;🌟+Let's+Code+Something+Epic!&font=Fira%20Code&center=true&width=600&height=100&duration=4000&pause=1000&color=00D4FF&vCenter=true&multiline=false" alt="Typing Animation Banner" />
-</p>
+<!-- Load LottieFiles Player -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+<!-- GitHub Lottie Animation Embed -->
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <lottie-player 
+    src="https://lottie.host/540deff1-275f-495f-8338-baf83edc9206/J7ASRe1jZ4.json"  
+    background="transparent"  
+    speed="1"  
+    style="width: 200px; height: 200px;"  
+    loop  
+    autoplay>
+  </lottie-player>
+</div>
 
 
   
