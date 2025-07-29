@@ -119,13 +119,13 @@ I'm always open to collaborating on **AI/ML projects** and **Full Stack Web Appl
 <div align="center">
   
   ### Frontend Mastery
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,flutter,tailwind,bootstrap&theme=dark" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,flutter,tailwind,bootstrap&theme=dark" alt="Frontend Skills"/>
   
   ### Backend & Database
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,firebase,redis&theme=dark" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,firebase,&theme=dark" alt="Backend Skills"/>
   
   ### AI/ML & Tools
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,docker,aws,linux,vscode&theme=dark" alt="ML Tools"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,docker,linux,vscode&theme=dark" alt="ML Tools"/>
   
 </div>
 
