@@ -129,25 +129,6 @@ I'm always open to collaborating on **AI/ML projects** and **Full Stack Web Appl
   
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=indresan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-  
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=indresan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" alt="GitHub Stats" width="48%" />
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=indresan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" width="48%" />
-    
-  </div>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indresan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" alt="Top Languages" width="50%" />
-  
-</div>
 
 ---
 
@@ -193,23 +174,7 @@ I'm always open to collaborating on **AI/ML projects** and **Full Stack Web Appl
   
 </div>
 
----
 
-## 🐍 GitHub Activity
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=📊%20Contribution%20Journey&fontSize=24&fontColor=ffffff" alt="Header Wave" />
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indresan/indresan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indresan/indresan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/indresan/indresan/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,3&height=100&section=footer" alt="Footer Wave" />
-  
-</div>
 
 ---
 
